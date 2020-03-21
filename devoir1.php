@@ -1,6 +1,6 @@
                        
 
-                                                           <--SAIDI SOUAD--><-- OUHMOUD HAYAT -->
+<--SAIDI SOUAD--><-- OUHMOUD HAYAT -->
 <?php
 // Exercice 1 :
 
